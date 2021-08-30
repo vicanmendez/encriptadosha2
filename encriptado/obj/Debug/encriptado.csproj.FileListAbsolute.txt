@@ -1,0 +1,9 @@
+C:\Users\Víctor\source\repos\encriptado\encriptado\bin\Debug\encriptado.exe.config
+C:\Users\Víctor\source\repos\encriptado\encriptado\bin\Debug\encriptado.exe
+C:\Users\Víctor\source\repos\encriptado\encriptado\bin\Debug\encriptado.pdb
+C:\Users\Víctor\source\repos\encriptado\encriptado\obj\Debug\encriptado.csprojAssemblyReference.cache
+C:\Users\Víctor\source\repos\encriptado\encriptado\obj\Debug\encriptado.Form1.resources
+C:\Users\Víctor\source\repos\encriptado\encriptado\obj\Debug\encriptado.Properties.Resources.resources
+C:\Users\Víctor\source\repos\encriptado\encriptado\obj\Debug\encriptado.csproj.GenerateResource.cache
+C:\Users\Víctor\source\repos\encriptado\encriptado\obj\Debug\encriptado.exe
+C:\Users\Víctor\source\repos\encriptado\encriptado\obj\Debug\encriptado.pdb
