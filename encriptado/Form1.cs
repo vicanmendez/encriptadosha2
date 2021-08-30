@@ -32,7 +32,7 @@ namespace encriptado
 
         private void button2_Click(object sender, EventArgs e)
         {
-            String texto = textBox.Text;
+            //String texto = textBox.Text;
             texto = Encrypt.GetMD5(texto);
             labelTexto.Text = "Texto encriptado: " + texto;
         }
