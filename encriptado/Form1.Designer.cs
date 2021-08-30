@@ -67,6 +67,7 @@
             // labelTexto
             // 
             this.labelTexto.AutoSize = true;
+            this.labelTexto.ForeColor = System.Drawing.Color.Red;
             this.labelTexto.Location = new System.Drawing.Point(171, 185);
             this.labelTexto.Name = "labelTexto";
             this.labelTexto.Size = new System.Drawing.Size(93, 13);
