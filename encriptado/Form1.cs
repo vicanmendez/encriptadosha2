@@ -27,8 +27,14 @@ namespace encriptado
             String texto = textBox.Text;
             texto = Encrypt.GetSHA256(texto);
             labelTexto.Text ="Texto encriptado: "+ texto;
-            String miClave = "pepe";
             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String texto = textBox.Text;
+            texto = Encrypt.GetMD5(texto);
+            labelTexto.Text = "Texto encriptado: " + texto;
         }
     }
 }
